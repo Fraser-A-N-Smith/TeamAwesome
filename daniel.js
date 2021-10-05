@@ -1,3 +1,3 @@
 const rubbishfunction = function () {
-  return 'nothing good however...';
+  return 'Something quite good!';
 };
